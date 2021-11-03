@@ -1,0 +1,11 @@
+C:\Users\KEK\source\repos\VIN_LIB\bin\Debug\VIN_LIB.dll
+C:\Users\KEK\source\repos\VIN_LIB\bin\Debug\VIN_LIB.pdb
+C:\Users\KEK\source\repos\VIN_LIB\obj\Debug\VIN_LIB.csprojAssemblyReference.cache
+C:\Users\KEK\source\repos\VIN_LIB\obj\Debug\VIN_LIB.dll
+C:\Users\KEK\source\repos\VIN_LIB\obj\Debug\VIN_LIB.pdb
+C:\Документы\техникум\WSR\ГосАвтоИнспекция\VIN_LIB\VIN_LIB\bin\Debug\VIN_LIB.dll
+C:\Документы\техникум\WSR\ГосАвтоИнспекция\VIN_LIB\VIN_LIB\bin\Debug\VIN_LIB.pdb
+C:\Документы\техникум\WSR\ГосАвтоИнспекция\VIN_LIB\VIN_LIB\obj\Debug\VIN_LIB.csproj.CoreCompileInputs.cache
+C:\Документы\техникум\WSR\ГосАвтоИнспекция\VIN_LIB\VIN_LIB\obj\Debug\VIN_LIB.dll
+C:\Документы\техникум\WSR\ГосАвтоИнспекция\VIN_LIB\VIN_LIB\obj\Debug\VIN_LIB.pdb
+C:\Документы\техникум\WSR\ГосАвтоИнспекция\VIN_LIB\VIN_LIB\obj\Debug\VIN_LIB.csprojAssemblyReference.cache
